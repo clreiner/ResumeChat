@@ -1,0 +1,8 @@
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-ollama==0.3.10
+langsmith==0.4.37
+numpy==2.3.4
+ollama==0.6.0
+pydantic==2.12.2
+pypdf==6.1.1
